@@ -1,0 +1,99 @@
+[
+  {
+    "teacher_id": "T001",
+    "teacher_name": "Amara Okafor",
+    "subject": "Mathematics",
+    "date": "2024-01-15",
+    "lesson_title": "Introduction to Fractions",
+    "objectives": [
+      "Students will understand what fractions represent",
+      "Students will identify numerator and denominator",
+      "Students will compare simple fractions"
+    ],
+    "activities_summary": "Used pizza slices as visual aids, group work with fraction cards, individual practice worksheets",
+    "reflection_text": "The lesson went well overall. Students were engaged with the pizza example and most grasped the basic concept. However, I noticed some students struggled with comparing fractions when denominators were different.",
+    "challenges": "Three students in the back row were distracted and needed frequent redirection. Time management was tight - didn't complete the planned exit ticket.",
+    "successes": "The hands-on activity with fraction cards was very effective. Students were excited to work in groups and helped each other understand the concepts.",
+    "student_engagement_level": "high",
+    "behavior_incidents": 2,
+    "assessment_snapshot": "15 out of 20 students demonstrated understanding on practice problems. 5 students need additional support.",
+    "free_text_notes": "Need to prepare differentiated materials for next lesson to support struggling learners."
+  },
+  {
+    "teacher_id": "T002",
+    "teacher_name": "Chidi Nwosu",
+    "subject": "English Language",
+    "date": "2024-01-15",
+    "lesson_title": "Narrative Writing: Story Structure",
+    "objectives": [
+      "Students will identify the elements of a story (beginning, middle, end)",
+      "Students will create a story outline using a graphic organizer",
+      "Students will write an engaging opening paragraph"
+    ],
+    "activities_summary": "Read aloud a short story, class discussion on story elements, individual work on story planning worksheet",
+    "reflection_text": "Students enjoyed the read-aloud but participation during discussion was uneven. Some students dominated while others remained silent. The writing portion revealed that many students struggle with organizing their ideas.",
+    "challenges": "Classroom management was difficult today. Several students were off-task during independent work time. I felt rushed and couldn't provide enough individual feedback.",
+    "successes": "The graphic organizer helped students visualize story structure. Two students who usually struggle with writing produced excellent story outlines.",
+    "student_engagement_level": "medium",
+    "behavior_incidents": 5,
+    "assessment_snapshot": "Mixed results. Strong writers excelled, but 8 students submitted incomplete work.",
+    "free_text_notes": "Feeling overwhelmed with large class size. Need strategies for better classroom management and differentiation."
+  },
+  {
+    "teacher_id": "T003",
+    "teacher_name": "Fatima Bello",
+    "subject": "Science",
+    "date": "2024-01-16",
+    "lesson_title": "The Water Cycle",
+    "objectives": [
+      "Students will describe the stages of the water cycle",
+      "Students will explain how water moves through the environment",
+      "Students will create a labeled diagram of the water cycle"
+    ],
+    "activities_summary": "Video on water cycle, interactive demonstration with boiling water and ice, partner work on diagrams",
+    "reflection_text": "The demonstration was a hit! Students were fascinated watching condensation form. The video provided good background knowledge. Most students successfully created accurate diagrams.",
+    "successes": "The hands-on demonstration made abstract concepts concrete. Students asked thoughtful questions and made real-world connections to rain and clouds.",
+    "student_engagement_level": "high",
+    "behavior_incidents": 0,
+    "assessment_snapshot": "18 out of 22 students correctly labeled all parts of the water cycle. Excellent comprehension overall.",
+    "free_text_notes": "This lesson format worked really well. Will use similar approach for upcoming lessons on weather patterns."
+  },
+  {
+    "teacher_id": "T001",
+    "teacher_name": "Amara Okafor",
+    "subject": "Mathematics",
+    "date": "2024-01-17",
+    "lesson_title": "Adding and Subtracting Fractions",
+    "objectives": [
+      "Students will add fractions with like denominators",
+      "Students will subtract fractions with like denominators",
+      "Students will solve word problems involving fractions"
+    ],
+    "activities_summary": "Review of previous lesson, guided practice on board, independent practice worksheets, word problem challenge",
+    "reflection_text": "Built well on previous lesson. Students who understood fractions basics did well with operations. However, the students who struggled before are now falling further behind.",
+    "challenges": "Differentiation is challenging with limited resources. The struggling students need more one-on-one time than I can provide during class.",
+    "successes": "Advanced students enjoyed the word problem challenge and worked collaboratively to solve complex problems.",
+    "student_engagement_level": "medium",
+    "behavior_incidents": 1,
+    "assessment_snapshot": "Achievement gap is widening. Top 12 students scored 90%+, bottom 8 students scored below 50%.",
+    "free_text_notes": "Concerned about students falling behind. May need to request additional support or tutoring resources."
+  },
+  {
+    "teacher_id": "T004",
+    "teacher_name": "Ibrahim Musa",
+    "subject": "Social Studies",
+    "date": "2024-01-17",
+    "lesson_title": "Early Nigerian Civilizations",
+    "objectives": [
+      "Students will identify major early Nigerian kingdoms",
+      "Students will describe key features of Nok, Ife, and Benin civilizations",
+      "Students will analyze artifacts from these civilizations"
+    ],
+    "reflection_text": "Lesson felt flat. Students seemed disengaged and several were visibly bored. My lecture-heavy approach didn't work well. Need to incorporate more interactive elements.",
+    "challenges": "Low energy in the classroom today. Students were restless and inattentive. I struggled to maintain their interest despite trying to make the content relevant.",
+    "student_engagement_level": "low",
+    "behavior_incidents": 4,
+    "assessment_snapshot": "Quiz results were disappointing. Only 9 out of 25 students demonstrated adequate understanding.",
+    "free_text_notes": "This lesson needs a complete redesign. Should incorporate more visuals, group activities, and hands-on learning. Feeling discouraged about today's outcome."
+  }
+]
