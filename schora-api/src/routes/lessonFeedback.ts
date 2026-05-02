@@ -4,7 +4,7 @@ import { generateLessonFeedback } from '../services/watsonx';
 
 const router = Router();
 
-router.post('/', async (req: Request, res: Response) => {
+router.post('/', (req: Request, res: Response) => {
   try {
     const { lesson } = req.body;
 
@@ -37,7 +37,7 @@ router.post('/', async (req: Request, res: Response) => {
     }
 
     // Generate feedback using stubbed service
-    const feedback = await generateLessonFeedback(lesson as TeacherLessonRecord);
+    const feedback = generateLessonFeedback(lesson as TeacherLessonRecord);
 
     return res.status(200).json({ feedback });
   } catch (error) {

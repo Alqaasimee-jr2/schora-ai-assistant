@@ -5,7 +5,7 @@ import { saveBriefing, getLatestBriefing } from '../services/store';
 
 const router = Router();
 
-router.post('/', async (req: Request, res: Response) => {
+router.post('/', (req: Request, res: Response) => {
   try {
     const { school_leader_id, week_start, week_end, feedback_list } = req.body;
 
@@ -20,7 +20,7 @@ router.post('/', async (req: Request, res: Response) => {
     }
 
     // Generate briefing using stubbed service
-    const briefing = await generateWeeklyBriefing(
+    const briefing = generateWeeklyBriefing(
       feedback_list as LessonFeedback[],
       { school_leader_id, week_start, week_end }
     );
