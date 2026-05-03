@@ -5,7 +5,7 @@ import { saveBriefing, getLatestBriefing } from '../services/store';
 
 const router = Router();
 
-router.post('/', (req: Request, res: Response) => {
+router.post('/', async (req: Request, res: Response) => {
   try {
     const { school_leader_id, week_start, week_end, feedback_list } = req.body;
 
@@ -19,8 +19,8 @@ router.post('/', (req: Request, res: Response) => {
       return res.status(400).json({ error: 'Missing required fields' });
     }
 
-    // Generate briefing using stubbed service
-    const briefing = generateWeeklyBriefing(
+    // Generate briefing using AI service (with stub fallback)
+    const briefing = await generateWeeklyBriefing(
       feedback_list as LessonFeedback[],
       { school_leader_id, week_start, week_end }
     );

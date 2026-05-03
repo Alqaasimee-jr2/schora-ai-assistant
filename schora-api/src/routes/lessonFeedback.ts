@@ -4,7 +4,7 @@ import { generateLessonFeedback } from '../services/watsonx';
 
 const router = Router();
 
-router.post('/', (req: Request, res: Response) => {
+router.post('/', async (req: Request, res: Response) => {
   try {
     const { lesson } = req.body;
 
@@ -36,8 +36,8 @@ router.post('/', (req: Request, res: Response) => {
       return res.status(400).json({ error: 'Missing required fields' });
     }
 
-    // Generate feedback using stubbed service
-    const feedback = generateLessonFeedback(lesson as TeacherLessonRecord);
+    // Generate feedback using AI service (with stub fallback)
+    const feedback = await generateLessonFeedback(lesson as TeacherLessonRecord);
 
     return res.status(200).json({ feedback });
   } catch (error) {

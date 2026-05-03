@@ -1,0 +1,15 @@
+{
+  "lesson": {
+    "teacher_id": "T001",
+    "teacher_name": "Amara Okafor",
+    "subject": "Mathematics",
+    "date": "2024-01-15",
+    "lesson_title": "Introduction to Fractions",
+    "objectives": ["Students will understand fractions"],
+    "reflection_text": "The lesson went well overall.",
+    "challenges": "Time management was tight.",
+    "successes": "Students engaged well.",
+    "student_engagement_level": "high",
+    "behavior_incidents": 2
+  }
+}

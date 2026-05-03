@@ -1,1 +1,297 @@
-[]
+[
+  {
+    "week_start": "2026-04-28",
+    "week_end": "2026-05-02",
+    "school_leader_id": "leader-001",
+    "teacher_summaries": [],
+    "top_risks": [
+      "Student engagement levels below target in 2 classes",
+      "Behavior incidents trending upward in Grade 5"
+    ],
+    "notable_wins": [
+      "All teachers submitted reflections on time",
+      "Strong use of formative assessment across subjects"
+    ],
+    "suggested_interventions": [
+      "Schedule classroom observation for teachers flagged as at-risk",
+      "Organize peer learning session on engagement strategies",
+      "Review behavior management protocols with Grade 5 team"
+    ],
+    "questions_to_discuss_in_checkin": [
+      "What support do teachers need to improve student engagement?",
+      "Are there patterns in behavior incidents we should address?",
+      "How can we celebrate and replicate the wins from this week?"
+    ],
+    "overall_school_health_score": 7.5
+  },
+  {
+    "week_start": "2026-04-28",
+    "week_end": "2026-05-02",
+    "school_leader_id": "leader-001",
+    "teacher_summaries": [
+      {
+        "teacher_id": "T001",
+        "teacher_name": "Teacher T001",
+        "lesson_count": 2,
+        "status": "on_track",
+        "summary": "Completed 2 lesson(s) this week with 0 risk flag(s) identified."
+      },
+      {
+        "teacher_id": "T002",
+        "teacher_name": "Teacher T002",
+        "lesson_count": 1,
+        "status": "needs_support",
+        "summary": "Completed 1 lesson(s) this week with 1 risk flag(s) identified."
+      },
+      {
+        "teacher_id": "T003",
+        "teacher_name": "Teacher T003",
+        "lesson_count": 1,
+        "status": "on_track",
+        "summary": "Completed 1 lesson(s) this week with 0 risk flag(s) identified."
+      },
+      {
+        "teacher_id": "T004",
+        "teacher_name": "Teacher T004",
+        "lesson_count": 1,
+        "status": "needs_support",
+        "summary": "Completed 1 lesson(s) this week with 1 risk flag(s) identified."
+      }
+    ],
+    "top_risks": [
+      "Student engagement levels below target in 2 classes",
+      "Behavior incidents trending upward in Grade 5"
+    ],
+    "notable_wins": [
+      "All teachers submitted reflections on time",
+      "Strong use of formative assessment across subjects"
+    ],
+    "suggested_interventions": [
+      "Schedule classroom observation for teachers flagged as at-risk",
+      "Organize peer learning session on engagement strategies",
+      "Review behavior management protocols with Grade 5 team"
+    ],
+    "questions_to_discuss_in_checkin": [
+      "What support do teachers need to improve student engagement?",
+      "Are there patterns in behavior incidents we should address?",
+      "How can we celebrate and replicate the wins from this week?"
+    ],
+    "overall_school_health_score": 7.5
+  },
+  {
+    "week_start": "2026-04-28",
+    "week_end": "2026-05-02",
+    "school_leader_id": "leader-001",
+    "teacher_summaries": [
+      {
+        "teacher_id": "T001",
+        "teacher_name": "Amara Okafor",
+        "lesson_count": 2,
+        "status": "on_track",
+        "summary": "Completed 2 lesson(s) this week with 0 risk flag(s) identified."
+      },
+      {
+        "teacher_id": "T002",
+        "teacher_name": "Chidi Nwosu",
+        "lesson_count": 1,
+        "status": "needs_support",
+        "summary": "Completed 1 lesson(s) this week with 1 risk flag(s) identified."
+      },
+      {
+        "teacher_id": "T003",
+        "teacher_name": "Fatima Bello",
+        "lesson_count": 1,
+        "status": "on_track",
+        "summary": "Completed 1 lesson(s) this week with 0 risk flag(s) identified."
+      },
+      {
+        "teacher_id": "T004",
+        "teacher_name": "Ibrahim Musa",
+        "lesson_count": 1,
+        "status": "needs_support",
+        "summary": "Completed 1 lesson(s) this week with 1 risk flag(s) identified."
+      }
+    ],
+    "top_risks": [
+      "Student engagement levels below target in 2 classes",
+      "Behavior incidents trending upward in Grade 5"
+    ],
+    "notable_wins": [
+      "All teachers submitted reflections on time",
+      "Strong use of formative assessment across subjects"
+    ],
+    "suggested_interventions": [
+      "Schedule classroom observation for teachers flagged as at-risk",
+      "Organize peer learning session on engagement strategies",
+      "Review behavior management protocols with Grade 5 team"
+    ],
+    "questions_to_discuss_in_checkin": [
+      "What support do teachers need to improve student engagement?",
+      "Are there patterns in behavior incidents we should address?",
+      "How can we celebrate and replicate the wins from this week?"
+    ],
+    "overall_school_health_score": 7.5
+  },
+  {
+    "week_start": "2026-04-28",
+    "week_end": "2026-05-02",
+    "school_leader_id": "leader-001",
+    "teacher_summaries": [
+      {
+        "teacher_id": "T001",
+        "teacher_name": "Amara Okafor",
+        "lesson_count": 2,
+        "status": "on_track",
+        "summary": "Completed 2 lesson(s) this week with 0 risk flag(s) identified."
+      },
+      {
+        "teacher_id": "T002",
+        "teacher_name": "Chidi Nwosu",
+        "lesson_count": 1,
+        "status": "needs_support",
+        "summary": "Completed 1 lesson(s) this week with 1 risk flag(s) identified."
+      },
+      {
+        "teacher_id": "T003",
+        "teacher_name": "Fatima Bello",
+        "lesson_count": 1,
+        "status": "on_track",
+        "summary": "Completed 1 lesson(s) this week with 0 risk flag(s) identified."
+      },
+      {
+        "teacher_id": "T004",
+        "teacher_name": "Ibrahim Musa",
+        "lesson_count": 1,
+        "status": "needs_support",
+        "summary": "Completed 1 lesson(s) this week with 1 risk flag(s) identified."
+      }
+    ],
+    "top_risks": [
+      "Student engagement levels below target in 2 classes",
+      "Behavior incidents trending upward in Grade 5"
+    ],
+    "notable_wins": [
+      "All teachers submitted reflections on time",
+      "Strong use of formative assessment across subjects"
+    ],
+    "suggested_interventions": [
+      "Schedule classroom observation for teachers flagged as at-risk",
+      "Organize peer learning session on engagement strategies",
+      "Review behavior management protocols with Grade 5 team"
+    ],
+    "questions_to_discuss_in_checkin": [
+      "What support do teachers need to improve student engagement?",
+      "Are there patterns in behavior incidents we should address?",
+      "How can we celebrate and replicate the wins from this week?"
+    ],
+    "overall_school_health_score": 7.5
+  },
+  {
+    "week_start": "2026-04-28",
+    "week_end": "2026-05-02",
+    "school_leader_id": "leader-001",
+    "teacher_summaries": [
+      {
+        "teacher_id": "T001",
+        "teacher_name": "Amara Okafor",
+        "lesson_count": 2,
+        "status": "on_track",
+        "summary": "Completed 2 lesson(s) this week with 0 risk flag(s) identified."
+      },
+      {
+        "teacher_id": "T002",
+        "teacher_name": "Chidi Nwosu",
+        "lesson_count": 1,
+        "status": "needs_support",
+        "summary": "Completed 1 lesson(s) this week with 1 risk flag(s) identified."
+      },
+      {
+        "teacher_id": "T003",
+        "teacher_name": "Fatima Bello",
+        "lesson_count": 1,
+        "status": "on_track",
+        "summary": "Completed 1 lesson(s) this week with 0 risk flag(s) identified."
+      },
+      {
+        "teacher_id": "T004",
+        "teacher_name": "Ibrahim Musa",
+        "lesson_count": 1,
+        "status": "needs_support",
+        "summary": "Completed 1 lesson(s) this week with 1 risk flag(s) identified."
+      }
+    ],
+    "top_risks": [
+      "Student engagement levels below target in 2 classes",
+      "Behavior incidents trending upward in Grade 5"
+    ],
+    "notable_wins": [
+      "All teachers submitted reflections on time",
+      "Strong use of formative assessment across subjects"
+    ],
+    "suggested_interventions": [
+      "Schedule classroom observation for teachers flagged as at-risk",
+      "Organize peer learning session on engagement strategies",
+      "Review behavior management protocols with Grade 5 team"
+    ],
+    "questions_to_discuss_in_checkin": [
+      "What support do teachers need to improve student engagement?",
+      "Are there patterns in behavior incidents we should address?",
+      "How can we celebrate and replicate the wins from this week?"
+    ],
+    "overall_school_health_score": 7.5
+  },
+  {
+    "week_start": "2026-04-28",
+    "week_end": "2026-05-02",
+    "school_leader_id": "leader-001",
+    "teacher_summaries": [
+      {
+        "teacher_id": "T001",
+        "teacher_name": "Amara Okafor",
+        "lesson_count": 2,
+        "status": "on_track",
+        "summary": "Completed 2 lesson(s) this week with 0 risk flag(s) identified."
+      },
+      {
+        "teacher_id": "T002",
+        "teacher_name": "Chidi Nwosu",
+        "lesson_count": 1,
+        "status": "needs_support",
+        "summary": "Completed 1 lesson(s) this week with 1 risk flag(s) identified."
+      },
+      {
+        "teacher_id": "T003",
+        "teacher_name": "Fatima Bello",
+        "lesson_count": 1,
+        "status": "on_track",
+        "summary": "Completed 1 lesson(s) this week with 0 risk flag(s) identified."
+      },
+      {
+        "teacher_id": "T004",
+        "teacher_name": "Ibrahim Musa",
+        "lesson_count": 1,
+        "status": "needs_support",
+        "summary": "Completed 1 lesson(s) this week with 1 risk flag(s) identified."
+      }
+    ],
+    "top_risks": [
+      "Student engagement levels below target in 2 classes",
+      "Behavior incidents trending upward in Grade 5"
+    ],
+    "notable_wins": [
+      "All teachers submitted reflections on time",
+      "Strong use of formative assessment across subjects"
+    ],
+    "suggested_interventions": [
+      "Schedule classroom observation for teachers flagged as at-risk",
+      "Organize peer learning session on engagement strategies",
+      "Review behavior management protocols with Grade 5 team"
+    ],
+    "questions_to_discuss_in_checkin": [
+      "What support do teachers need to improve student engagement?",
+      "Are there patterns in behavior incidents we should address?",
+      "How can we celebrate and replicate the wins from this week?"
+    ],
+    "overall_school_health_score": 7.5
+  }
+]

@@ -18,6 +18,7 @@ export interface TeacherLessonRecord {
 export interface LessonFeedback {
   lesson_id: string;
   teacher_id: string;
+  teacher_name: string;
   strengths: string[];
   areas_for_growth: string[];
   concrete_suggestions: string[];
