@@ -293,5 +293,64 @@
       "How can we celebrate and replicate the wins from this week?"
     ],
     "overall_school_health_score": 7.5
+  },
+  {
+    "week_start": "2026-04-28",
+    "week_end": "2026-05-02",
+    "school_leader_id": "leader-001",
+    "teacher_summaries": [
+      {
+        "teacher_id": "T001",
+        "teacher_name": "Amara Okafor",
+        "lesson_count": 2,
+        "status": "needs_support",
+        "summary": "Teacher has strengths in using creative visual aids and promoting collaboration. They received positive feedback on high student engagement, but could improve by differentiating instruction, especially for fraction comparisons. Concrete suggestions include creating fraction comparison exercises and adding more formative assessments.\n\nFollow-up questions: How will teacher differentiate instruction? How will they address fraction comparisons? Identify potential low-engagement students and tailorinstruction accordingly."
+      },
+      {
+        "teacher_id": "T002",
+        "teacher_name": "Chidi Nwosu",
+        "lesson_count": 1,
+        "status": "needs_support",
+        "summary": "Teacher's clear objectives, varied teaching activities, and reflection are strengths. To improve, incorporating more differentiated instruction strategies and formative assessments is advised.\n\nFollow-up questions: Which strategies engage students most? How can this lesson be adapted for students needing additional support?\n\nBehavior concerns were noted."
+      },
+      {
+        "teacher_id": "T003",
+        "teacher_name": "Fatima Bello",
+        "lesson_count": 1,
+        "status": "needs_support",
+        "summary": "Teacher's engaging visuals, hands-on activities, and use of videos are strengths. To further enhance, integrating more discussion for deep understanding andformative assessments for immediate feedback is recommended.\n\nFollow-up questions: How will teacher introduce more discussion? What strategies will be used to address misconceptions?\n\nObjective not met for this subject."
+      },
+      {
+        "teacher_id": "T004",
+        "teacher_name": "Ibrahim Musa",
+        "lesson_count": 1,
+        "status": "needs_support",
+        "summary": "Teacher aligns lessons with curriculum standards, uses varied teaching activities, and reflects well. Improvement areas include incorporating differentiated instruction and formative assessments.\n\nFollow-up questions: How does teacher engage students effectively? How can this lesson be adapted for students needing support?\n\nLow engagement noted."
+      }
+    ],
+    "top_risks": [
+      "Objective not met",
+      "Behavior concerns",
+      "Low engagement"
+    ],
+    "notable_wins": [
+      "High student engagement in Amara Okafor's lessons",
+      "Clear lesson objectives",
+      "Varied teaching activities",
+      "Positive reflections on teaching practice"
+    ],
+    "suggested_interventions": [
+      "Create fraction comparison exercises",
+      "Implement exit tickets for formative assessment",
+      "Integrate group discussions for critical thinking",
+      "Address behavior concerns in Chidi Nwosu's lesson"
+    ],
+    "questions_to_discuss_in_checkin": [
+      "How will differentiated instruction be implemented?",
+      "What strategies address specific student needs?",
+      "How to enhance discussion in lessons?",
+      "Ways to boost student engagement in low-engagement situations"
+    ],
+    "overall_school_health_score": 7
   }
 ]
