@@ -352,5 +352,124 @@
       "Ways to boost student engagement in low-engagement situations"
     ],
     "overall_school_health_score": 7
+  },
+  {
+    "week_start": "2026-04-28",
+    "week_end": "2026-05-02",
+    "school_leader_id": "leader-001",
+    "teacher_summaries": [
+      {
+        "teacher_id": "T001",
+        "teacher_name": "Amara Okafor",
+        "lesson_count": 2,
+        "status": "on_track",
+        "summary": "Amara's lessons showed strong alignment with curriculum standards and varied teaching activities. Student engagement and reflection on teaching practice were noted strengths. She was encouraged to incorporate differentiated instruction and formative assessments. Implementing exit tickets and think-pair-share activities are suggested for enhanced engagement and understanding."
+      },
+      {
+        "teacher_id": "T002",
+        "teacher_name": "Chidi Nwosu",
+        "lesson_count": 1,
+        "status": "needs_support",
+        "summary": "Chidi's lesson demonstrated strong alignment with standards and varied activities, with substantial reflection on her practice. However, her lesson was marked with a behavior concern. She is recommended to implement exit tickets and engagement boosters like think-pair-share and visual anchor charts, as well as consider differentiation and additional formative assessment techniques."
+      },
+      {
+        "teacher_id": "T003",
+        "teacher_name": "Fatima Bello",
+        "lesson_count": 1,
+        "status": "on_track",
+        "summary": "Fatima's multimedia-heavy lesson showed good student engagement but lacked direct connection to learning objectives in some sections. Suggestions include brief quizzes or quick writes following multimedia to deepen student understanding."
+      },
+      {
+        "teacher_id": "T001",
+        "teacher_name": "Amara Okafor",
+        "lesson_count": 1,
+        "status": "needs_support",
+        "summary": "Amara's Math lesson lacked engagement and had some low engagement markers. She is advised to implement differentiated instruction strategies and incorporate interactive elements to improve student engagement."
+      },
+      {
+        "teacher_id": "T004",
+        "teacher_name": "Ibrahim Musa",
+        "lesson_count": 1,
+        "status": "at_risk",
+        "summary": "Ibrahim's lesson had low student engagement and a lecture-heavy approach. It was recommended he use multimedia, interactive activities, and group discussions to counteract these issues and add interactive elements to the teaching process."
+      }
+    ],
+    "top_risks": [
+      "behavior concerns",
+      "low_engagement"
+    ],
+    "notable_wins": [
+      "Effective multimedia use by Fatima Bello",
+      "Clear lesson alignment across teachers"
+    ],
+    "suggested_interventions": [
+      "Encourage incorporation of differentiated instruction, formative assessments, exit tickets, think-pair-share activities, and visual anchor charts across all classrooms"
+    ],
+    "questions_to_discuss_in_checkin": [
+      "What strategies did teachers use to engage students and how effective were they?",
+      "How can we support teachers in implementing formative assessments and differentiated instruction?",
+      "What can we do to address low student engagement in some classrooms?",
+      "How can we ensure that multimedia use directly reinforces learning objectives?"
+    ],
+    "overall_school_health_score": 6
+  },
+  {
+    "week_start": "2026-04-28",
+    "week_end": "2026-05-02",
+    "school_leader_id": "leader-001",
+    "teacher_summaries": [
+      {
+        "teacher_id": "T001",
+        "teacher_name": "Amara Okafor",
+        "lesson_count": 2,
+        "status": "at_risk",
+        "summary": "Engaged students effectively, particularly through visual aids and group work. However, the teacher struggled with providing effective fraction comparison strategies and addressing different denominators. Concrete suggestions include introducing equivalent fractions and using common denominators or strips for comparison exercises."
+      },
+      {
+        "teacher_id": "T002",
+        "teacher_name": "Chidi Nwosu",
+        "lesson_count": 1,
+        "status": "needs_support",
+        "summary": "Incorporated read-aloud and structure for story planning. Areas for improvement include uneven participation in class discussions, needing support with idea organization in writing. Suggestions include round-robin or wait-time strategies to encourage more participation and a scaffolded approach to writing, such as brainstorming or mind mapping."
+      },
+      {
+        "teacher_id": "T003",
+        "teacher_name": "Fatima Bello",
+        "lesson_count": 1,
+        "status": "on_track",
+        "summary": "Clarified lesson objectives and used varied teaching activities effectively. Could benefit from incorporating more differentiated instruction and exploring additional formative assessments. Suggestions include exit tickets for understanding gauges, think-pair-share activities for engagement, and visual anchor charts for key concepts."
+      },
+      {
+        "teacher_id": "T004",
+        "teacher_name": "Ibrahim Musa",
+        "lesson_count": 1,
+        "status": "at_risk",
+        "summary": "Thorough knowledge of subject matter and lessons on topic. However, struggled with engagement and incorporating interactive elements. Suggestions include blending lecture with interactive activities like group discussions, using multimedia for context, and implementing peer-learning on artifacts or reports."
+      },
+      {
+        "teacher_id": "teacher-001",
+        "teacher_name": "Adebayo Johnson",
+        "lesson_count": 4,
+        "status": "on_track",
+        "summary": "Demonstrated strengths in aligning objectives with standards, effective activities, and self-reflection. Could improve differentiated instruction and formative assessments. Suggestions include exit tickets, think-pair-share activities, and visual anchor charts."
+      }
+    ],
+    "top_risks": [
+      "Amara Okafor - objective not met in fractions",
+      "Ibrahim Musa - low engagement and objective not met in Social Studies"
+    ],
+    "notable_wins": [
+      "Amara Okafor's effective use of visual aids and group work",
+      "Adebayo Johnson's engaging teaching practices and reflection"
+    ],
+    "suggested_interventions": [
+      "Monitor and support Amara Okafor in improving fraction comparison strategies",
+      "Encourage Ibrahim Musa to incorporate interactive elements and explore different teaching methods"
+    ],
+    "questions_to_discuss_in_checkin": [
+      "How can we support Amara Okafor in reinforcing fraction concepts with varying denominators?",
+      "What strategies does Ibrahim Musa use to differentiate instruction for consistent student performance in Social Studies?"
+    ],
+    "overall_school_health_score": 7.5
   }
 ]

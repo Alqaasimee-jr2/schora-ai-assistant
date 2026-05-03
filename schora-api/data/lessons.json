@@ -95,5 +95,143 @@
     "behavior_incidents": 4,
     "assessment_snapshot": "Quiz results were disappointing. Only 9 out of 25 students demonstrated adequate understanding.",
     "free_text_notes": "This lesson needs a complete redesign. Should incorporate more visuals, group activities, and hands-on learning. Feeling discouraged about today's outcome."
+  },
+  {
+    "teacher_id": "teacher-001",
+    "teacher_name": "Adebayo Johnson",
+    "subject": "Mathematics",
+    "date": "2024-01-18",
+    "lesson_title": "Multiplication Tables Review",
+    "objectives": [
+      "Students will recall multiplication facts up to 12x12",
+      "Students will apply multiplication in word problems",
+      "Students will identify patterns in multiplication tables"
+    ],
+    "activities_summary": "Multiplication games, timed practice drills, group problem-solving activities",
+    "reflection_text": "Students were highly engaged with the competitive games. The timed drills helped identify students who need more practice. Most students showed improvement from last week.",
+    "challenges": "Two students became frustrated during timed activities and needed encouragement.",
+    "successes": "The game-based approach made practice fun. Students were asking to play more rounds even after the lesson ended.",
+    "student_engagement_level": "high",
+    "behavior_incidents": 0,
+    "assessment_snapshot": "17 out of 20 students improved their speed and accuracy. 3 students still struggling with 7s and 8s tables.",
+    "free_text_notes": "Will create additional practice materials for students struggling with specific tables."
+  },
+  {
+    "teacher_id": "teacher-001",
+    "teacher_name": "Adebayo Johnson",
+    "subject": "Mathematics",
+    "date": "2024-01-19",
+    "lesson_title": "Introduction to Division",
+    "objectives": [
+      "Students will understand division as sharing equally",
+      "Students will relate division to multiplication",
+      "Students will solve simple division problems"
+    ],
+    "activities_summary": "Manipulatives for equal sharing, visual models on board, partner practice with division cards",
+    "reflection_text": "Good introduction to the concept. Using physical objects helped students visualize equal sharing. The connection to multiplication was clear for most students.",
+    "challenges": "Some students confused division with subtraction. Need to reinforce the concept of equal groups.",
+    "successes": "Hands-on activities were very effective. Students enjoyed working with manipulatives and the partner work went smoothly.",
+    "student_engagement_level": "high",
+    "behavior_incidents": 1,
+    "assessment_snapshot": "14 out of 20 students demonstrated solid understanding. 6 students need more practice with the concept.",
+    "free_text_notes": "Plan to continue with manipulatives in next lesson before moving to abstract problems."
+  },
+  {
+    "teacher_id": "teacher-001",
+    "teacher_name": "Adebayo Johnson",
+    "subject": "Mathematics",
+    "date": "2024-01-22",
+    "lesson_title": "Division with Remainders",
+    "objectives": [
+      "Students will understand what remainders represent",
+      "Students will solve division problems with remainders",
+      "Students will interpret remainders in context"
+    ],
+    "activities_summary": "Real-world scenarios, guided practice, independent worksheet, exit ticket",
+    "reflection_text": "This was a challenging concept for many students. The real-world examples helped, but several students struggled with the abstract notation.",
+    "challenges": "Time management was an issue - didn't finish all planned activities. Some students were confused about when to round up or down in word problems.",
+    "successes": "The students who grasped it were able to explain it to their peers, which was encouraging.",
+    "student_engagement_level": "medium",
+    "behavior_incidents": 2,
+    "assessment_snapshot": "Mixed results. 11 students showed understanding, 9 need reteaching.",
+    "free_text_notes": "Need to reteach this concept with more scaffolding before moving forward."
+  },
+  {
+    "teacher_id": "teacher-001",
+    "teacher_name": "Adebayo Johnson",
+    "subject": "Science",
+    "date": "2024-01-23",
+    "lesson_title": "States of Matter",
+    "objectives": [
+      "Students will identify the three states of matter",
+      "Students will describe properties of solids, liquids, and gases",
+      "Students will give examples of each state"
+    ],
+    "activities_summary": "Interactive demonstration with ice, water, and steam; sorting activity with pictures; group presentations",
+    "reflection_text": "Excellent lesson! The demonstration captured everyone's attention. Students made great connections to everyday experiences.",
+    "successes": "The hands-on demonstration was a huge success. Students were fascinated watching ice melt and water evaporate. Group presentations showed deep understanding.",
+    "student_engagement_level": "high",
+    "behavior_incidents": 0,
+    "assessment_snapshot": "19 out of 20 students correctly identified and described all three states. Outstanding comprehension.",
+    "free_text_notes": "This lesson format is highly effective. Will use similar approach for upcoming chemistry topics."
+  },
+  {
+    "teacher_id": "teacher-001",
+    "teacher_name": "Adebayo Johnson",
+    "subject": "English Language",
+    "date": "2024-01-24",
+    "lesson_title": "Descriptive Writing: Using Adjectives",
+    "objectives": [
+      "Students will identify adjectives in sentences",
+      "Students will use adjectives to enhance descriptions",
+      "Students will write descriptive paragraphs"
+    ],
+    "activities_summary": "Adjective hunt in reading passage, brainstorming session, guided writing, peer review",
+    "reflection_text": "Students enjoyed the creative aspect of this lesson. The adjective hunt was engaging and the writing samples showed good use of descriptive language.",
+    "challenges": "A few students overused adjectives, making their writing awkward. Need to teach about balance and word choice.",
+    "successes": "Peer review session was productive. Students gave helpful feedback to each other and revised their work accordingly.",
+    "student_engagement_level": "high",
+    "behavior_incidents": 0,
+    "assessment_snapshot": "16 out of 20 students wrote strong descriptive paragraphs. 4 students need more practice with sentence structure.",
+    "free_text_notes": "Students are showing improvement in writing skills. Will continue building on this foundation."
+  },
+  {
+    "teacher_id": "teacher-001",
+    "teacher_name": "Adebayo Johnson",
+    "subject": "Mathematics",
+    "date": "2024-01-25",
+    "lesson_title": "Geometry: Identifying Shapes",
+    "objectives": [
+      "Students will identify 2D shapes and their properties",
+      "Students will classify shapes by number of sides",
+      "Students will find shapes in the environment"
+    ],
+    "activities_summary": "Shape sorting activity, property charts, classroom shape hunt, drawing exercises",
+    "reflection_text": "Fun and interactive lesson. Students were excited about the shape hunt around the classroom. Most students can now identify and name common shapes.",
+    "successes": "The hands-on activities kept students engaged throughout. The shape hunt made learning active and memorable.",
+    "student_engagement_level": "high",
+    "behavior_incidents": 1,
+    "assessment_snapshot": "18 out of 20 students correctly identified all shapes and their properties. Excellent results.",
+    "free_text_notes": "Students are ready to move on to 3D shapes next week."
+  },
+  {
+    "teacher_id": "teacher-001",
+    "teacher_name": "Adebayo Johnson",
+    "subject": "Social Studies",
+    "date": "2024-01-26",
+    "lesson_title": "Community Helpers",
+    "objectives": [
+      "Students will identify different community helpers",
+      "Students will describe the roles of various helpers",
+      "Students will explain why community helpers are important"
+    ],
+    "activities_summary": "Video presentation, class discussion, role-play activities, drawing and writing assignment",
+    "reflection_text": "Students were very engaged with the role-play activities. They enjoyed acting out different community helper roles and showed good understanding of each profession.",
+    "challenges": "Some students were shy about participating in role-play initially, but warmed up as the activity progressed.",
+    "successes": "The combination of video, discussion, and role-play addressed different learning styles effectively. Students made personal connections to helpers in their own community.",
+    "student_engagement_level": "high",
+    "behavior_incidents": 0,
+    "assessment_snapshot": "All 20 students demonstrated understanding through their drawings and written descriptions. Very positive results.",
+    "free_text_notes": "Consider inviting actual community helpers to speak to the class in future lessons."
   }
 ]
